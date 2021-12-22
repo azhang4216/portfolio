@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name":"Angela \"Zi Lan\" Zhang",
+    "description":"I am a student-athlete at Columbia University (grad May 2024) who is passionate about making cool apps and services",
+    "image":"profilepic.jpg",
+    "bio":"I am a recruited Divison I Athlete and program record-holder who brings her passion and discipline from the golf course to her work in software engineering.",
+    "contactmessage":"If you wish to contact me, please fill out and submit the following form.",
+    "email": "zz2921@columbia.edu",
+    "phone": "917-992-3178",
+    "github":"https://github.com/azhang4216",
+    "linkedin":"https://www.linkedin.com/in/angela-zi-lan-zhang-3a85281b0/",
+    "address":{
+      "city":"Vancouver",
+      "state":"B.C.",
+      "zip": "Canada"
+    },
+    "website": "http://www.angelazz.me",
+    "resumedownload":"../downloadable/Angela_Zhang_Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/angela-zi-lan-zhang-3a85281b0/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/azhang4216",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"A short write-up of my skills:",
+    "education":[
+      {
+        "school":"Columbia University",
+        "degree":"Bachelor's in Computer Science",
+        "graduated":"September 2022 - May 2024",
+        "description":"• Transferred to and Recruited by Columbia to Play Div I Golf Following Dartmouth's Golf Team Elimination\n• Resuming Computer Science Degree Studies at Columbia College"
+      },
+      {
+        "school":"Dartmouth College",
+        "degree":"Bachelor's in Computer Science",
+        "graduated":"September 2019 - June 2021",
+        "description":"• 3.85/4.00 GPA, Honors Roll Recipient\n• Recruited Division I Athlete\n• All-Time School Program Record Holder for Women’s Golf"
+      }
+    ],
+    "work":[
+      {
+        "company":"Palantir Technologies (London, UK)",
+        "title":"Forward Deployed Engineer Intern",
+        "years":"May 2022 - August 2022"
+      },
+      {
+        "company":"Amazon Web Services (Seattle, WA)",
+        "title":"Software Engineer Dev I Intern",
+        "years":"June 2021 - September 2021",
+        "description":"• Promoted to a college junior level internship despite having applied for a sophomore position\n• Designed, coded, and tested an asynchronous code artifact layer merging system for serverless functions\n• Given a return offer for Summer 2022"
+      },
+      {
+        "company":"DALI Lab (Hanover, NH)",
+        "title":"Fullstack Engineer",
+        "years":"August 2020 - June 2021",
+        "description":"• Admitted as one of the youngest members to Dartmouth's tech-entrepreneurial program after a rigorous selection process\n• Worked part-time to create full-stack web apps for companies in teams of designers, engineers, PMs"
+      },
+      {
+        "company":"Dartmouth Academic Skills Center (Hanover, NH)",
+        "title":"Computer Science and Maths T.A. and Tutor",
+        "years":"April 2020 - June 2021",
+        "description":"• As a TA, led weekly coding sessions for students, grading and reviewing their code and homework\n• As a tutor, helped 5 assigned peers to achieve 90%+ in Calculus and Python classes in a 1:1 setting"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"JS",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"35%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Pine Beetle Prediction Tool",
+        "description":"interactive pine beetle infestation visualization and prediction",
+        "image":"01.png",
+        "url":"https://www.spbpredict.com",
+        "categories":"Fullstack, React"
+      },
+      {
+        "title":"A Train Away",
+        "description":"an immersive story-telling experience in VR",
+        "image":"02.jpg",
+        "url":"https://www.youtube.com/watch?v=kVlCGrw6ohk&ab_channel=RorkeKuttel",
+        "categories":"VR, Oculus, Unity"
+      },
+      {
+        "title":"To-do List",
+        "description":"a to-do list web app deployed with MongoDB cloud database to Heroku",
+        "image":"03.jpg",
+        "url":"https://cryptic-atoll-66323.herokuapp.com/new-list",
+        "categories":"Fullstack"
+      },
+      {
+        "title":"Food Products Quality Classifier",
+        "description":"predicts the quality of an Amazon food product based on reviews, F1=0.87",
+        "image":"04.jpg",
+        "url":"mailto:zz2921@columbia.com?subject=Interested in ML Food Products Code!",
+        "categories":"Machine Learning"
+      },
+      {
+        "title":"Simon Says Game",
+        "description":"a fun JavaScript game inspired by Simon Says",
+        "image":"05.png",
+        "url":"https://github.com/azhang4216/simon-says",
+        "categories":"JS, jQuery"
+      },
+      {
+        "title":"Meme Sharing Tool",
+        "description":"an API tool leveraging Reddit upvote system and Twitter for optimal meme sharing",
+        "image":"06.png",
+        "url":"https://github.com/azhang4216/reddit-twitter-api",
+        "categories":"API, Python"
+      }
+    ]
+  }
+}
